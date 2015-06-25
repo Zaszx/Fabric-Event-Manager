@@ -1,4 +1,4 @@
-# Fabric-Event-Manager
+# Fabric Event Manager
 
 Event system we use for story scripting in our game Fabric.
 
